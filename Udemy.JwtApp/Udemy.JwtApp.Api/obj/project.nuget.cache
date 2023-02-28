@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Tv8bogoy8cJ27sppCkzvR+XkYqhQOQYIy31eSAYlwJ+pU1T00IP1dtmGd1Pg3igiVAhu39cykK09YXj4ruVDg==",
+  "dgSpecHash": "Zwm8bX67djB8NlHyZtBP6d8W3GsMT+PJpNo9Cvr1jLrn2vbDp1uZQrs+cMGzwjwBAsuY9s8FlZwpegSzwXYNaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abdullah\\Desktop\\Udemy.JwtApp\\Udemy.JwtApp.Api\\Udemy.JwtApp.Api.csproj",
+  "projectFilePath": "C:\\Users\\Abdullah\\Desktop\\jwt\\Udemy.JwtApp\\Udemy.JwtApp.Api\\Udemy.JwtApp.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdullah\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Abdullah\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

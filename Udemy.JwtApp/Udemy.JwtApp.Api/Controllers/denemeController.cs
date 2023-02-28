@@ -2,7 +2,7 @@
 
 namespace Udemy.JwtApp.Api.Controllers
 {
-    public class Deneme7Controller : Controller
+    public class denemeController : Controller
     {
         public IActionResult Index()
         {
